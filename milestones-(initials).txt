@@ -1,0 +1,5 @@
+Rubric (unofficial)
++10 Good player movement
++10 Good Level design
++10 Minimal bugs
++10 Discretionary
