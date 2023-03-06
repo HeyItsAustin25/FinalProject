@@ -12,4 +12,8 @@ Andy Li
   -Watching videos and begin nagivating trough Unity.
 
 
-Austion Smith
+Austin Smith
+
+2/24: 2:02 hours - Watching tutorials and setting up unity
+3/2: 2:52 hours - Watching tutorials and working on project
+3/3: 1:34 hours - Working some more on project and figuring out how to use git with unity
