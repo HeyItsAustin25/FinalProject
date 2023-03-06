@@ -3,3 +3,13 @@ Rubric (unofficial)
 +10 Good Level design
 +10 Minimal bugs
 +10 Discretionary
+
+# Time Log
+Andy Li
+3/4 7:00 - 9:00 PM 
+  -Working on getting Unity and nessesary files installed.
+3/5 7:00 - 10:00 PM 
+  -Watching videos and begin nagivating trough Unity.
+
+
+Austion Smith
